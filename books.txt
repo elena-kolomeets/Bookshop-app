@@ -1,0 +1,16 @@
+Title  Author  Year  ISBN
+Burning Daylight  Jack London  2007  9781421826851
+The Little Lady Of The Big House  Jack London  2007  9781421897974
+Martin Eden  Jack London  2007  9781421897950
+Sister Carrie  Theodore Dreiser  1970  9780393043259
+The Financier  Theodore Dreiser  2006  9787216047463
+The Titan  Theodore Dreiser  2008  9781406826548
+The Stoic  Theodore Dreiser  2007  9785170498239
+An American Tragedy  Theodore Dreiser  2003  9781931082310
+King, Queen, Knave  Vladimir Nabokov  2012  9780141196923
+War And Peace  Leo Tolstoy  2008  9781854595720
+Anna Karenina  Leo Tolstoy  2003  9780140449174
+Demons  Fyodor Dostoevsky  2000  9780375411229
+The Brothers Karamazov  Fyodor Dostoevsky  1991  9780137168798
+The Master And Margarita   Mikhail Bulgakov  1992  9780679410461
+Resurrection   Leo Tolstoy  2000  9780735102866
