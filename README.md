@@ -1,8 +1,14 @@
-"# Bookshop-app"
+## Bookshop-app
 
 A desktop database app that stores this book information:
-Title, Author, Year, ISBN
+*Title, Author, Year, ISBN*
 
-User can view all records, search, add, update and delete an entry,
-clear the view, save the data in the text file,
-get hints with help buttons
+User can: 
+* view all records
+* search entry
+* add entry
+* update entry
+* delete entry
+* clear the view
+* save data in text file
+* get hints with help buttons
