@@ -13,4 +13,4 @@ User can:
 * save data in text file
 * get hints with help buttons
 
-<img src="bookshop.gif" height="320"/>
+<img src="bookshop.gif" width="550"/>
